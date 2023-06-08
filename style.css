@@ -1,0 +1,24 @@
+
+body{
+    background-color: rgb(255, 200, 200);
+}
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    background-color: rgb(255, 100, 100);
+}
+
+li {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.main-course{
+    color: rgb(255, 155, 0);
+}
+
+.dessert{
+    color: rgb(0, 255, 255);
+}
